@@ -1,32 +1,145 @@
-# Olá! 👋
+# 👋 Hi, I’m Matheus Candido
 
-Meu nome é Matheus e sou um desenvolvedor graduado em Gestão da Tecnologia da Informação. Tenho experiência em várias áreas, incluindo suporte a usuários, manutenção de sistemas e desenvolvimento de melhorias.
+📍 Dublin, Ireland  
+💻 Full-Stack Developer | Systems Analyst  
+🔐 IAM / IGA • .NET • Java • Cloud • Microservices  
 
-## Experiência Profissional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/matheushcandido)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/matheushcandido)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:candidoma050@gmail.com)
 
-### Desenvolvedor Full Stack
+---
 
-- **Empresa:** Ivory IT
-- **Período:** 10/2022 - 11/2023
+## 🧑‍💻 About Me
 
-Nesse cargo, trabalhei em projetos MVC no ambiente .NET. Minhas principais responsabilidades incluíam:
+I am a **Full-Stack Developer and Systems Analyst** with solid experience in **C#, .NET, Java**, and **Identity & Access Management (IAM/IGA)**.  
+I have worked with **modern and legacy systems**, focusing on **scalable, secure, and performance-oriented solutions**.
 
-- Desenvolvimento do back-end com C# e Entity Framework.
-- Implementação do front-end com Razor Pages e JavaScript.
-- Utilização do SQL Server como banco de dados.
+I am comfortable working in **agile environments (Scrum / Kanban)** and have hands-on experience with **cloud platforms**, **REST APIs**, **microservices**, and **relational databases**.
 
-### Projetos Pessoais
+Currently based in **Dublin, Ireland**, holding a **Stamp 2 visa**, legally authorised to work **part-time** and **full-time during holidays**, and open to **full-time roles with sponsorship**.
 
-Além da minha experiência profissional, também tenho projetos pessoais onde utilizei as seguintes tecnologias:
+---
 
-- **Spring Boot**: utilizado tanto MVC quanto baseado em APIs.
-- **Angular**: uma das tecnologias que venho estudando recentemente.
-- **Bootstrap**: sempre utilizando bootstrap, tanto da maneira profissional, quanto da pessoal.
-- **MySQL**: ótimo gerenciador de banco de dados, sempre utilizando em projetos pessoais.
+## 🛠️ Tech Stack
 
-## Contato
+### 💡 Programming Languages
+- C#
+- Java
+- JavaScript / ECMAScript
 
-- LinkedIn: https://www.linkedin.com/in/matheushcandido/
-- E-mail: candidoma050@gmail.com
+### ⚙️ Frameworks & Libraries
+- .NET / ASP.NET
+- Spring Boot
+- Angular
+- React
+- Vue.js
 
-Estou sempre em busca de novos desafios e oportunidades de aprendizado 🚀
+### 🗄️ Databases
+- SQL Server
+- MySQL
+- Oracle
+- Firebase
+
+### ☁️ Cloud & DevOps
+- Microsoft Azure
+- AWS
+- Docker
+- Kubernetes
+
+### 🔐 IAM / Enterprise
+- Identity Manager
+- IAM / IGA
+- LDAP
+- REST APIs
+- Microservices
+- Git
+
+### 📐 Methodologies
+- Scrum
+- Kanban
+- Test-Driven Development (TDD)
+
+---
+
+## 💼 Professional Experience
+
+### **Systems Analyst / Developer**  
+**Open Consult** — *Aug 2024 – Dec 2025*
+
+- Support and enhancement of **user and group management systems**
+- Development using **Identity Manager** and **One Identity Manager**
+- IAM tool development with **OpenText** and **Quest**
+- Technologies: **HTML, CSS, JavaScript, jQuery, Angular, VB.NET, C#, Java**
+- Log analysis, connector configuration, and policy development
+- Linux system maintenance and integrations
+- Databases and services: **LDAP, Oracle, SQL Server, REST APIs, VMs, microservices**
+
+---
+
+### **Systems Analyst / Developer**  
+**Ivory IT** — *Oct 2022 – Nov 2023*
+
+- Development and maintenance of **ASP.NET applications**
+- Backend in **C#** and frontend using **Razor + JavaScript**
+- Worked with **Vue.js** and **React** in selected projects
+- SQL Server database management
+- Bug fixing, system improvements, and technical support
+- Experience with **Microsoft Azure** for development and deployment
+
+---
+
+## 🎓 Education
+
+- **Associate Degree in Information Technology Management**  
+  *FATEC Bragança Paulista* — 2020–2022
+
+- **Associate Degree in Mechatronics**  
+  *Instituto Federal de São Paulo* — 2018–2019
+
+- **English Course (B1)**  
+  *NED College Ireland* — 2026
+
+---
+
+## 🚀 Personal Projects
+
+### 🐄 INSETEC — Cattle Advertisement System  
+**Spring Boot • Hibernate • MySQL • HTML • CSS • JavaScript**  
+🔗 https://github.com/matheushcandido/Anuncios-bovinos-mvc  
+
+### 🧃 Sales Manager App — Community Snack-Bar  
+**Java • Firebase**  
+🔗 https://github.com/matheushcandido/app-lanchonete  
+
+### 🔄 INSETEC — Microservices Architecture  
+**Angular • Spring Boot**  
+🔗 https://github.com/matheushcandido/anuncios-bovinos-spring  
+
+### 💼 Job Portal API  
+**C# • .NET**  
+🔗 https://github.com/matheushcandido/PortalVagas  
+
+### 🏋️ GymTracker  
+**React Native • Firebase**  
+🔗 https://github.com/matheushcandido/gym-tracker  
+
+---
+
+## 🌍 Languages
+
+- Portuguese — Native
+- English — Intermediate (B1 / TOEIC)
+- Spanish — Intermediate
+
+---
+
+## 📫 Contact
+
+- 📧 Email: candidoma050@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/matheushcandido  
+- 💻 GitHub: https://github.com/matheushcandido  
+
+---
+
+⭐ *Feel free to explore my repositories and get in touch. I’m always open to new challenges and opportunities.*
