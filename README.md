@@ -17,7 +17,7 @@ I have worked with **modern and legacy systems**, focusing on **scalable, secure
 
 I am comfortable working in **agile environments (Scrum / Kanban)** and have hands-on experience with **cloud platforms**, **REST APIs**, **microservices**, and **relational databases**.
 
-Currently based in **Dublin, Ireland**, holding a **Stamp 2 visa**, legally authorised to work **part-time** and **full-time during holidays**, and open to **full-time roles with sponsorship**.
+Currently based in **Dublin, Ireland**.
 
 ---
 
