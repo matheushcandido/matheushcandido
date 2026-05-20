@@ -65,7 +65,7 @@ Currently based in **Dublin, Ireland**.
 ## 💼 Professional Experience
 
 ### **Systems Analyst / Developer**  
-**Open Consult** — *Aug 2024 – Dec 2025*
+**Open Consult** — *Jan 2024 – Dec 2025*
 
 - Support and enhancement of **user and group management systems**
 - Development using **Identity Manager** and **One Identity Manager**
@@ -78,7 +78,7 @@ Currently based in **Dublin, Ireland**.
 ---
 
 ### **Systems Analyst / Developer**  
-**Ivory IT** — *Oct 2022 – Nov 2023*
+**Ivory IT** — *Jun 2022 – Dec 2023*
 
 - Development and maintenance of **ASP.NET applications**
 - Backend in **C#** and frontend using **Razor + JavaScript**
